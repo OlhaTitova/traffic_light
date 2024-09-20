@@ -1,0 +1,6 @@
+#root {
+  height: calc(100vh - 8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
